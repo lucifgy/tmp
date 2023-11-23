@@ -1,2 +1,0 @@
-# tmp
-It's temporary
